@@ -8,6 +8,12 @@ from operation_product import ProductOperation
 from io_interface import Interface
 import os
 
+# Aleksandar Mitreski
+# ITO4133 – Introduction to Python TP2-24
+# Student ID: 27565521
+# operation_order.py creation date: 19/03/2024
+# operation_order.py last modified date: 04/28/2024
+
 
 class OrderOperation:
     ORDERS_FILE_PATH = "data/orders.txt"

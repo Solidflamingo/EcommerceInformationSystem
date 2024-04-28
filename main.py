@@ -8,8 +8,8 @@ from operation_customer import CustomerOperation
 # Aleksandar Mitreski
 # ITO4133 – Introduction to Python TP2-24
 # Student ID: 27565521
-# main.py creation date:
-# main.py last modified date:
+# main.py creation date: 14/03/2024
+# main.py last modified date: 04/28/2024
 
 
 

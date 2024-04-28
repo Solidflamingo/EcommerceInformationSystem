@@ -1,5 +1,12 @@
 from model_user import User
 
+
+# Aleksandar Mitreski
+# ITO4133 – Introduction to Python TP2-24
+# Student ID: 27565521
+# creation date: 12/03/2024
+# last modified date: 01/28/2024
+
 class Customer(User):
     def __init__(self, user_email=None, user_mobile=None, **kwargs):
         """Initialize a customer with default or provided email and mobile, in addition to inherited properties."""

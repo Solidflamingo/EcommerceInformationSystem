@@ -7,6 +7,12 @@ from operation_product import ProductOperation
 from io_interface import Interface
 
 
+# Aleksandar Mitreski
+# ITO4133 – Introduction to Python TP2-24
+# Student ID: 27565521
+# creation date: 12/03/2024
+# last modified date: 04/28/2024
+
 class AdminOperation:
     USERS_FILE_PATH = "data/users.txt"
     DEFAULT_ADMIN_USERNAME = "SystemAdmin"

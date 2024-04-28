@@ -1,3 +1,9 @@
+# Aleksandar Mitreski
+# ITO4133 – Introduction to Python TP2-24
+# Student ID: 27565521
+# io_interface.py creation date: 16/03/2024
+# io_interface.py last modified date: 04/28/2024
+
 class Interface:
 
     @staticmethod
