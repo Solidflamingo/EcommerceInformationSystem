@@ -11,6 +11,28 @@ from operation_customer import CustomerOperation
 # main.py creation date: 14/03/2024
 # main.py last modified date: 04/28/2024
 
+# # This program serves as a comprehensive system for managing a retail environment, combining user management,
+# # product inventory, and order processing functionalities that is entirely run through console/terminal.
+
+# # Core Components of the program:
+#     User Management: Supports two types of users: admins and customers.
+#     Admins have comprehensive control over the system, including user and product management,
+#     orders, and data analysis capabilities. Customers can manage their profiles, view products,
+#     and examine their order histories.
+#
+#     Product Management: Admins can load product information from CSV files into the system, manage product listings,
+#     conduct searches either by keywords or specific IDs, allowing for real-time inventory updates and accessibility.
+#
+#     Order Management: The system handles order creation and management, providing features to view and delete orders.
+#     It also supports generating order data, facilitating insights into sales trends and customer preferences.
+#
+#     Data Analysis: Capable of generating various statistical figures and reports, the system provides both graphical
+#     and textual analysis of sales data, customer behavior, and product popularity.
+#     This includes monthly consumption figures, best-selling products, and overall product performance metrics.
+#
+#     Security: Utilizes basic encryption for passwords and a text-based storage system for data handling.
+
+
 
 
 def main():
